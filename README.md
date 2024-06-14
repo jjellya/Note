@@ -45,3 +45,25 @@ The jelly tools project has received support from the following organizations:
 * None
 
 
+
+
+
+
+
+# Plan
+
+> 06-12~06-16
+
+- [ ] fb 判断1
+- [ ] fb 判断2
+- [ ] fb 判断3
+- [ ] fb 判断4
+- [ ] fb 判断5
+- [ ] 判断90题
+- [ ] 资料30题
+- [ ] 言语30题
+- [ ] 常识15题
+- [ ] 数量15题
+- [ ] 申论小作文
+- [ ] 申论大作文
+
