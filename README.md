@@ -55,8 +55,14 @@ The jelly tools project has received support from the following organizations:
 > 06-12~06-16
 
 - [x] fb 判断1
+
+<p style="color : red;">× unfinished</p>
+
+> 06-17~06-23
+
 - [x] fb 判断2
-- [ ] fb 判断3
+
+- [x] fb 判断3
 - [ ] fb 判断4
 - [ ] fb 判断5
 - [ ] 判断90题
