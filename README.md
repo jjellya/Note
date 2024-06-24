@@ -61,10 +61,15 @@ The jelly tools project has received support from the following organizations:
 > 06-17~06-23
 
 - [x] fb 判断2
-
 - [x] fb 判断3
-- [ ] fb 判断4
-- [ ] fb 判断5
+- [x] fb 判断4
+
+==× unfinished==
+
+> 06-24~06-30
+
+- [x] fb 判断5
+- [ ] fb 判断6
 - [ ] 判断90题
 - [ ] 资料30题
 - [ ] 言语30题
